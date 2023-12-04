@@ -1,2 +1,8 @@
 # Travis-Scott-Songs-And-How-They-Compare
 My project involved listening to all the songs from Travis Scotts 4 studio albums released on music streaming services, and putting them into categories based on what album they are from and the mood I got from them, while also including the amount of streams in the millions, and the length of the songs in seconds.
+
+The way I was able to operationalize this project was by liostening to all 4 songs and then placing them in qualitative catagories based on which album they were put on and which mood I thought the song represented. I used thw quantitative variables of the amount of streams the songs have on the current date in the millions and the length of the song in seconds.
+
+The first variable I chose was the album they were placed on. This variable consists of 4 categories, in order they go 1. Rodeo, 2. Birds in the Trap Sing McKnight, 3. Astroworld, 4. Utopia. You can place the songs in these categories by going into his spotify page and scrolling through the albums and placing the songs in a category given which album they were released in.
+
+The second Variable I chose was what mood they made me feel. This is also a 4 category qualitative variable in order going 1. Spacey, 2. Hype, 3. Sad/Slow, 4. Trap. The mood spacey is defined by me as an almost out of body feel. It involves to me a lot of synth, a slower beat but it doesnt sound sad it rather sounds futuristic. A hype song to me is described as a song that has a very fast feel to it and maybe talks about more violent and extravegant topics. A sad or slow song to me would a song that includes sadder topics and a slower beat. It could have a similar beat to a spacey song 
